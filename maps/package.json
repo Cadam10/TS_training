@@ -1,0 +1,9 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "TS maps",
+  "main": "index.js",
+  "repository": "https://github.com/Cadam10/TS_training",
+  "author": "Caden Adam",
+  "license": "MIT"
+}
